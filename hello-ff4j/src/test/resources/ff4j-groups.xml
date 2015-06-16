@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<features>
+		<!-- Sample Feature Group -->
+		<feature-group name="release-2.3">
+			<feature uid="users-story11" enable="false" />
+			<feature uid="users-story21" enable="false" />
+			<feature uid="users-story31" enable="true" />
+		</feature-group>
+		<feature uid="featA1" enable="true" />
+		<feature uid="featB1" enable="false" />
+	</features>
